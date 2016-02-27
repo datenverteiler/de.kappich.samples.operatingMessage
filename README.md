@@ -1,4 +1,4 @@
-de.kappich.samples.operatingMessage v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.kappich.samples.operatingMessage.svg?branch=master)](https://travis-ci.org/datenverteiler/de.kappich.samples.operatingMessage)
+de.kappich.samples.operatingMessage v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.kappich.samples.operatingMessage.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.kappich.samples.operatingMessage)
 ==========================================
 
 
