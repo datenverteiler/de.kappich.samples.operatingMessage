@@ -1,0 +1,4 @@
+-exportcontents: de.kappich.samples.operatingMessage.*
+-sources: true
+
+Bundle-Name: de.kappich.samples.operatingMessage
